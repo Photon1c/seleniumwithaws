@@ -3,7 +3,7 @@
 
 #from https://preethamdpg.medium.com/running-selenium-webdriver-with-python-on-an-aws-ec2-instance-be9780c97d47
 #Sample.py
-#print out HMTL element from Google Home Page
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
